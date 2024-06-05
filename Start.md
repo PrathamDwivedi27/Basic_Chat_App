@@ -1,0 +1,3 @@
+- If we use socket.emit rather than io.emit then only the client will get mesg no one else.
+- If you use socket.broadcast .emit then except the client all other will get message.
+- 

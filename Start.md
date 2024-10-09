@@ -5,4 +5,3 @@
 - EJS (Embedded JavaScript) is one such view engine. It enables you to write HTML templates with embedded JavaScript. EJS makes it easy to generate HTML with plain JavaScript and provides simple syntax for including JavaScript code directly within your HTML.
 
 - We are using ejs module here.
-- 
